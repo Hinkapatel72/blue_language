@@ -1,0 +1,24 @@
+var : int x = 9;
+
+var : float p = 0.4;
+
+var : char n = 'c';
+
+var : int y = 3;
+
+var : int z = 1;
+
+array : int a[6];
+
+array : char try[12];
+
+function matrix(int,int);
+
+function number(int);
+
+if ( 4 > 2 ) then 1
+else 0;
+
+while ( 8 > 3 ) then 1;
+
+
